@@ -26,28 +26,28 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:2
 #DTV2 (vthanhtivi)
 
 #EXTINF:-1 tvg-id="ＮＨＫ総合１・東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="DTV2 (vthanhtivi)",NHK総合 東京 (vthanhtivi)
-https://vnpt.nekocdn.xyz/b783a989-9e73-4bce-bfa3-9996a9eaa455.m3u8
+http://vthanh.utako.moe/4E656B6F_g/index.m3u8
 
 #EXTINF:-1 tvg-id="ＮＨＫＥテレ１・東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="DTV2 (vthanhtivi)",NHK教育 (vthanhtivi)
-https://vnpt.nekocdn.xyz/d074504f-ca7a-467e-a67c-a91e69461775.m3u8
+http://vthanh.utako.moe/4E656B6F_e/index.m3u8
 
 #EXTINF:-1 tvg-id="日テレ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png" group-title="DTV2 (vthanhtivi)",日本テレビ (vthanhtivi)
-https://vnpt.nekocdn.xyz/427b3914-a2b4-401b-b5ed-706158d73908.m3u8
+http://vthanh.utako.moe/4E656B6F_np/index.m3u8
 
 #EXTINF:-1 tvg-id="ＴＢＳ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="DTV2 (vthanhtivi)",TBSテレビ (vthanhtivi)
-https://vnpt.nekocdn.xyz/memfs/d90fa53e-51d2-4364-aa9b-480a883a2bfb.m3u8
+http://vthanh.utako.moe/4E656B6F_bs/index.m3u8
 
 #EXTINF:-1 tvg-id="フジテレビ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="DTV2 (vthanhtivi)",フジテレビ (vthanhtivi)
-https://vnpt.nekocdn.xyz/memfs/5417ea42-1305-40d2-b318-bcc9552fe3fb.m3u8
+http://vthanh.utako.moe/4E656B6F_fj/index.m3u8
 
 #EXTINF:-1 tvg-id="テレビ朝日.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="DTV2 (vthanhtivi)",テレビ朝日 (vthanhtivi)
-https://vnpt.nekocdn.xyz/0fc25793-9d0a-459d-b645-46254bd89616.m3u8
+http://vthanh.utako.moe/4E656B6F_as/index.m3u8
 
 #EXTINF:-1 tvg-id="テレビ東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png" group-title="DTV2 (vthanhtivi)",テレビ東京 (vthanhtivi)
-https://vnpt.nekocdn.xyz/memfs/202bea4f-c55a-4dbc-a5f3-66343cc98b0b.m3u8
+http://vthanh.utako.moe/4E656B6F_tk/index.m3u8
 
 #EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="ＴＯＫＹＯ　ＭＸ１.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 (vthanhtivi)
-https://vnpt.nekocdn.xyz/memfs/b9925493-fc55-40fe-b813-07ead8974f3f.m3u8
+http://vthanh.utako.moe/4E656B6F_tmx/index.m3u8
 
 #EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="ＴＯＫＹＯ　ＭＸ１.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 (vthanhtivi TEST)
 http://tv.utako.moe/mx1/index.m3u8
@@ -315,7 +315,7 @@ https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #CS2 (vthanhtivi)
 
 #EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X 1
-https://vnpt.nekocdn.xyz/memfs/934473ee-a4c0-40be-bae1-5c692023c2bd.m3u8
+http://vthanh.utako.moe/4E656B6F_at/index.m3u8
 
 #EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X 2 (neetball)
 https://neetball.net/live/neet3.m3u8
