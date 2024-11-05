@@ -502,6 +502,9 @@ https://ythls-v3.onrender.com/channel/UChx_y6aLWNkifSDUt2TVAzg.m3u8?playlist=ind
 #EXTINF:-1 group-title="Youtube live" tvg-language="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nojmiML0cdD1tGWEshI9iaQq56B9NEGTj6UzjvEbZ7mw=s160-c-k-c0x00ffffff-no-rj", JQuake 地震速報24時間 (youtube live)
 https://ythls-v3.onrender.com/video/ExWAzLFCvWQ.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Youtube live" tvg-language="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nojmiML0cdD1tGWEshI9iaQq56B9NEGTj6UzjvEbZ7mw=s160-c-k-c0x00ffffff-no-rj", JQuake 地震速報24時間 (youtube live)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730840450/ei/IjMqZ8SXMdWI6dsPgIuXuAw/ip/92.205.5.93/id/c7_kqMFDE8c.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/qtApAb9OrmKPavP32ZevD0lgM7DmZDDUgx1_reiHUS65snTYfruoT-5FB3YGxJc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932%2C51331020/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgClu-i7AjJi8_XQP4XjSeKYsN2NWxQGVXa-47RdloDp0CICkR67Wr_HZM-_OrX7nr6dITMddCT8OELLjvYDf1EBEy/file/index.m3u8
+
 #EXTINF:-1 group-title="Youtube live" tvg-language="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mK-MLoldc3E_ltVdOwVtTo3EiRSKtKnqHi3EqIIfTkfUU=s160-c-k-c0x00ffffff-no-rj", avex 24/7 Music Live (youtube live)
 https://ythls-v3.onrender.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ.m3u8?playlist=index
 
