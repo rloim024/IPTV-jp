@@ -458,6 +458,9 @@ https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fWH4f28p/Weathernews-logo-svg.png" group-title="NEWS",ウェザーニュース(サブチャンネル)
 https://ythls.armelin.one/channel/UCNsidkYpIAQ4QaufptQBPHQ.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWH4f28p/Weathernews-logo-svg.png" group-title="NEWS",ウェザーニュース(サブチャンネル1)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730839913/ei/CTEqZ6eANOTi6dsP7ePtiAg/ip/92.205.5.93/id/3kTunDZLp1k.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51324841/txs/51324841%2C51324842%2C51324843/hfr/1/force_finished/1/maudio/1/spc/qtApAQmhtlCh1ML42dGLhbjcEqC94E-gAijA4jA6aSGu82kw8imfOI24ZPq19gk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932%2C51331020/dover/11/itag/0/playlist_type/CLEAN/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cforce_finished%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgTRR5oIqxys95AkbIzQBFLsYnv5lTRoTv3DP5AsBNFNACICRIb8E37EoFSO8w6kex3F7PRvEnUmxiLNIR95qNJCy8/file/index.m3u8
+
 #EXTINF:-1 group-title="NEWS" tvg-id="NHK.WORLD.jp" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NHKWorld.png", ＮＨＫワールド
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/domestic/2003459/live.m3u8
 
