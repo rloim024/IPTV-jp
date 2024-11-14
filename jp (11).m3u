@@ -35,7 +35,7 @@ http://tv.utako.moe/nhkg/index.m3u8
 http://vthanh.utako.moe/2/index.m3u8
 
 #EXTINF:-1 tvg-id="ＮＨＫＥテレ１・東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="DTV2 (vthanhtivi)",NHK教育 (vthanhtivi TEST)
-http://tv.utako.moe/nhke/index.m3u8
+http://tv.utako.moe/nhke_testsignal/index.m3u8 
 
 #EXTINF:-1 tvg-id="日テレ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png" group-title="DTV2 (vthanhtivi)",日本テレビ (vthanhtivi)
 http://vthanh.utako.moe/3/index.m3u8
