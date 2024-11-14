@@ -59,13 +59,13 @@ http://tv.utako.moe/fuji_testsignal/index.m3u8
 http://vthanh.utako.moe/4/index.m3u8
 
 #EXTINF:-1 tvg-id="テレビ朝日.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="DTV2 (vthanhtivi)",テレビ朝日 (vthanhtivi TEST)
-http://tv.utako.moe/asahi/index.m3u8
+http://tv.utako.moe/asahi_testsignal/index.m3u8 
 
 #EXTINF:-1 tvg-id="テレビ東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png" group-title="DTV2 (vthanhtivi)",テレビ東京 (vthanhtivi)
 http://vthanh.utako.moe/6/index.m3u8
 
 #EXTINF:-1 tvg-id="テレビ東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png" group-title="DTV2 (vthanhtivi)",テレビ東京 (vthanhtivi TEST)
-http://tv.utako.moe/tvtokyo/index.m3u8
+http://tv.utako.moe/tvtokyo_testsignal/index.m3u8 
 
 #EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="ＴＯＫＹＯ　ＭＸ１.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 (vthanhtivi)
 http://vthanh.utako.moe/10/index.m3u8
