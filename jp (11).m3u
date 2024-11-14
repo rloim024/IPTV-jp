@@ -29,7 +29,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:2
 http://vthanh.utako.moe/1/index.m3u8
 
 #EXTINF:-1 tvg-id="ＮＨＫ総合１・東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="DTV2 (vthanhtivi)",NHK総合 東京 (vthanhtivi TEST)
-http://tv.utako.moe/nhkg/index.m3u8
+http://tv.utako.moe/nhkg_fucknihontv.apymx/index.m3u8 
 
 #EXTINF:-1 tvg-id="ＮＨＫＥテレ１・東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="DTV2 (vthanhtivi)",NHK教育 (vthanhtivi)
 http://vthanh.utako.moe/2/index.m3u8
@@ -74,7 +74,7 @@ http://vthanh.utako.moe/10/index.m3u8
 http://tv.utako.moe/mx1/index.m3u8
 
 #EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="ＴＯＫＹＯ　ＭＸ２.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX2 (vthanhtivi TEST)
-http://tv.utako.moe/mx2/index.m3u8
+http://tv.utako.moe/mx2_testsignal/index.m3u8
 
 #EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="chiba_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Chiba_TV_logo.jpg",千葉テレビ  (vthanhtivi TEST)
 http://r3jx.djtmewibu.com/chibatv/index.m3u8
