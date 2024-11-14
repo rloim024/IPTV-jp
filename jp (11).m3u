@@ -53,7 +53,7 @@ http://tv.utako.moe/tbs_testsignal/index.m3u8
 http://vthanh.utako.moe/7/index.m3u8
 
 #EXTINF:-1 tvg-id="フジテレビ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="DTV2 (vthanhtivi)",フジテレビ (vthanhtivi TEST)
-http://tv.utako.moe/fuji/index.m3u8
+http://tv.utako.moe/fuji_testsignal/index.m3u8 
 
 #EXTINF:-1 tvg-id="テレビ朝日.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="DTV2 (vthanhtivi)",テレビ朝日 (vthanhtivi)
 http://vthanh.utako.moe/4/index.m3u8
