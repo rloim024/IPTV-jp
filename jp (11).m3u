@@ -41,7 +41,7 @@ http://tv.utako.moe/nhke_testsignal/index.m3u8
 http://vthanh.utako.moe/3/index.m3u8
 
 #EXTINF:-1 tvg-id="日テレ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png" group-title="DTV2 (vthanhtivi)",日本テレビ (vthanhtivi TEST)
-http://tv.utako.moe/ntv/index.m3u8
+http://tv.utako.moe/ntv_testsignal/index.m3u8 
 
 #EXTINF:-1 tvg-id="ＴＢＳ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="DTV2 (vthanhtivi)",TBSテレビ (vthanhtivi)
 http://vthanh.utako.moe/5/index.m3u8
