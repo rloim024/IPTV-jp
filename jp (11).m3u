@@ -71,7 +71,7 @@ http://tv.utako.moe/tvtokyo_testsignal/index.m3u8
 http://vthanh.utako.moe/10/index.m3u8
 
 #EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="ＴＯＫＹＯ　ＭＸ１.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 (vthanhtivi TEST)
-http://tv.utako.moe/mx1/index.m3u8
+http://tv.utako.moe/mx1_testsignal/index.m3u8
 
 #EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="ＴＯＫＹＯ　ＭＸ２.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX2 (vthanhtivi TEST)
 http://tv.utako.moe/mx2_testsignal/index.m3u8
