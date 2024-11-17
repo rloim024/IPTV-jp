@@ -68,7 +68,7 @@ http://vthanh.utako.moe/6/index.m3u8
 http://tv.utako.moe/tvtokyo_testsignal/index.m3u8 
 
 #EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="ＴＯＫＹＯ　ＭＸ１.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 (vthanhtivi)
-http://vthanh.utako.moe/10/index.m3u8
+http://vthanh.utako.moe/12/index.m3u8
 
 #EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="ＴＯＫＹＯ　ＭＸ１.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 (vthanhtivi TEST)
 http://tv.utako.moe/mx1_testsignal/index.m3u8
@@ -268,7 +268,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31&isp=10&b
 #BS3 (vthanhtivi)
 
 #EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11 (vthanhtivi)
-http://vthanh.utako.moe/12/index.m3u8 
+http://vthanh.utako.moe/10/index.m3u8 
 
 #EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11 (test) 
 http://tv.utako.moe/bs11/index.m3u8
