@@ -71,7 +71,7 @@ http://tv.utako.moe/tvtokyo_testsignal/index.m3u8
 http://vthanh.utako.moe/12/index.m3u8
 
 #EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="ＴＯＫＹＯ　ＭＸ１.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 (vthanhtivi TEST)
-http://tv.utako.moe/mx1_testsignal/index.m3u8
+http://tv.utako.moe/mx1/index.m3u8
 
 #EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="ＴＯＫＹＯ　ＭＸ２.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX2 (vthanhtivi TEST)
 http://tv.utako.moe/mx2_testsignal/index.m3u8
@@ -276,6 +276,18 @@ http://tv.utako.moe/bs11/index.m3u8
 #EXTINF:-1 tvg-id="BSアニマックス.jp" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="BS3 (vthanhtivi)",BSアニマックス (vthanhtivi)
 http://vthanh.utako.moe/9/index.m3u8
 
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="J.SPORTS.1.jp" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1-test 
+http://tv.utako.moe/js1/index.m3u8 
+
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="J.SPORTS.2.jp" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2-test 
+http://tv.utako.moe/js2/index.m3u8 
+
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="J.SPORTS.3.jp" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",JSport 3-test 
+http://tv.utako.moe/js3/index.m3u8 
+
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="J.SPORTS.4.jp" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSport 4-test 
+http://tv.utako.moe/js4/index.m3u8 
+
 #CS1 (720p)
 
 #EXTINF:-1 tvg-id="アクションチャンネル.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_global.png" group-title="CS1 (720p)",アクションチャンネル (720p Willfon)
@@ -337,6 +349,12 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:2
 
 #EXTINF:-1  tvg-id="qvc" tvg-logo="https://i.imgur.com/xWSzQ34.png" group-title="CS1 (720p)", QVC (720p Willfon)
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+
+#EXTINF:-1 group-title="CS1 (720p)" tvg-id="tbs_ch1.jp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp.png",TBS Channel 1-test 
+http://tv.utako.moe/tbsch1/index.m3u8 
+
+#EXTINF:-1 group-title="CS1 (720p)" tvg-id="tbs_ch2.jp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png",TBS Channel 2-test 
+http://tv.utako.moe/tbsch2/index.m3u8 
 
 #CS2 (vthanhtivi)
 
