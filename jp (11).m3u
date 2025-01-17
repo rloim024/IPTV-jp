@@ -26,49 +26,49 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:2
 #DTV2 (vthanhtivi)
 
 #EXTINF:-1 tvg-id="ＮＨＫ総合１・東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="DTV2 (vthanhtivi)",NHK総合 東京 (vthanhtivi)
-http://vthanh.utako.moe:8080/7745c6ca-9548-4880-8a10-8204f6a0768f.m3u8 
+http://vthanh.utako.moe/NHK_G/index.m3u8 
 
 #EXTINF:-1 tvg-id="ＮＨＫ総合１・東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="DTV2 (vthanhtivi)",NHK総合 東京 (vthanhtivi TEST)
 http://tv.utako.moe/nhkg_fucknihontv.apymx/index.m3u8 
 
 #EXTINF:-1 tvg-id="ＮＨＫＥテレ１・東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="DTV2 (vthanhtivi)",NHK教育 (vthanhtivi)
-http://vthanh.utako.moe:8080/5eb251b5-95b9-46f8-baff-77526687367f.m3u8 
+http://vthanh.utako.moe/NHK_E/index.m3u8 
 
 #EXTINF:-1 tvg-id="ＮＨＫＥテレ１・東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="DTV2 (vthanhtivi)",NHK教育 (vthanhtivi TEST)
 http://tv.utako.moe/nhke/index.m3u8 
 
 #EXTINF:-1 tvg-id="日テレ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png" group-title="DTV2 (vthanhtivi)",日本テレビ (vthanhtivi)
-http://vthanh.utako.moe:8080/d1b3ffdf-c7a2-4b8c-9e65-2b1bb1d5ae1e.m3u8 
+http://vthanh.utako.moe/Nippon_TV/index.m3u8 
 
 #EXTINF:-1 tvg-id="日テレ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png" group-title="DTV2 (vthanhtivi)",日本テレビ (vthanhtivi TEST)
 http://tv.utako.moe/ntv/index.m3u8 
 
 #EXTINF:-1 tvg-id="ＴＢＳ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="DTV2 (vthanhtivi)",TBSテレビ (vthanhtivi)
-http://vthanh.utako.moe:8080/d5fdd5cf-2e1c-4b10-a566-c2bae26f6299.m3u8 
+http://vthanh.utako.moe/TBS/index.m3u8 
 
 #EXTINF:-1 tvg-id="ＴＢＳ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="DTV2 (vthanhtivi)",TBSテレビ (vthanhtivi TEST)
 http://tv.utako.moe/tbs/index.m3u8 
 
 #EXTINF:-1 tvg-id="フジテレビ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="DTV2 (vthanhtivi)",フジテレビ (vthanhtivi)
-http://vthanh.utako.moe:8080/8c5db1b4-fae2-48ce-81d2-24bf53cedf4a.m3u8 
+http://vthanh.utako.moe/Fuji_TV/index.m3u8 
 
 #EXTINF:-1 tvg-id="フジテレビ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="DTV2 (vthanhtivi)",フジテレビ (vthanhtivi TEST)
 http://tv.utako.moe/fuji/index.m3u8 
 
 #EXTINF:-1 tvg-id="テレビ朝日.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="DTV2 (vthanhtivi)",テレビ朝日 (vthanhtivi)
-http://vthanh.utako.moe:8080/1082c017-1f25-48ea-bc45-09ae0908c230.m3u8 
+http://vthanh.utako.moe/TV_Asahi/index.m3u8 
 
 #EXTINF:-1 tvg-id="テレビ朝日.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="DTV2 (vthanhtivi)",テレビ朝日 (vthanhtivi TEST)
 http://tv.utako.moe/asahi/index.m3u8 
 
 #EXTINF:-1 tvg-id="テレビ東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png" group-title="DTV2 (vthanhtivi)",テレビ東京 (vthanhtivi)
-http://vthanh.utako.moe:8080/a6434e48-4def-4c5f-bc54-5032e74fca8e.m3u8 
+http://vthanh.utako.moe/TV_Tokyo/index..m3u8 
 
 #EXTINF:-1 tvg-id="テレビ東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png" group-title="DTV2 (vthanhtivi)",テレビ東京 (vthanhtivi TEST)
 http://tv.utako.moe/tvtokyo/index.m3u8 
 
 #EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="ＴＯＫＹＯ　ＭＸ１.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 (vthanhtivi)
-http://vthanh.utako.moe:8080/19c6dcd0-56d6-4339-915f-e46b8090360a.m3u8 
+http://vthanh.utako.moe/Tokyo_MX1/index.m3u8 
 
 #EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="ＴＯＫＹＯ　ＭＸ１.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 (vthanhtivi TEST)
 http://tv.utako.moe/mx1/index.m3u8
@@ -268,13 +268,13 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31&isp=10&b
 #BS3 (vthanhtivi)
 
 #EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11 (vthanhtivi)
-http://vthanh.utako.moe:81/10/index.m3u8 
+http://vthanh.utako.moe/NHK_BS/index.m3u8 
 
 #EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11 (test) 
 http://luong.utako.moe/bs11/index.m3u8
 
 #EXTINF:-1 tvg-id="BSアニマックス.jp" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="BS3 (vthanhtivi)",BSアニマックス (vthanhtivi)
-http://vthanh.utako.moe:81/9/index.m3u8
+http://vthanh.utako.moe/Animax/index.m3u8
 
 #EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="J.SPORTS.1.jp" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1-test 
 http://luong.utako.moe/js1/index.m3u8 
@@ -362,7 +362,7 @@ http://luong.utako.moe/spaceshower/index.m3u8
 #CS2 (vthanhtivi)
 
 #EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X 1
-http://vthanh.utako.moe:8080/5ef84ce6-e7c1-4655-9ca4-97eb65215195.m3u8 
+http://vthanh.utako.moe/AT-X/index.m3u8 
 
 #EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X 2 (neetball)
 https://neetball.net/live/neet3.m3u8
