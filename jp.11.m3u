@@ -62,7 +62,7 @@ http://vthanh.utako.moe/TV_Asahi/index.m3u8
 http://tv.utako.moe/asahi/index.m3u8 
 
 #EXTINF:-1 tvg-id="テレビ東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png" group-title="DTV2 (vthanhtivi)",テレビ東京 (vthanhtivi)
-http://vthanh.utako.moe/TV_Tokyo/index..m3u8 
+http://vthanh.utako.moe/TV_Tokyo/index.m3u8 
 
 #EXTINF:-1 tvg-id="テレビ東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png" group-title="DTV2 (vthanhtivi)",テレビ東京 (vthanhtivi TEST)
 http://tv.utako.moe/tvtokyo/index.m3u8 
