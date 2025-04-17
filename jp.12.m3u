@@ -365,6 +365,9 @@ https://luong.utako.moe/tbsch2/index.m3u8
 #EXTINF:-1 group-title="CS1 (720p)" tvg-id="音楽・ライブ！　スペースシャワーＴＶ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg", スペースシャワーTV   (vthanhtivi TEST)
 http://luong.utako.moe/spaceshower/index.m3u8  
 
+#EXTINF:-1 group-title="CS1 (720p)" tvg-id="ミュージック・ジャパンTV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_japan_tv.png", Music JapanTV 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=4
+
 #CS2 (vthanhtivi)
 
 #EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X 1
