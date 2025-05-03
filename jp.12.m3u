@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz,https://xmltv.tvkaista.net/guides/tvguide.myjcom.jp.xml,http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz,http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
 #MAIN DTV1 (720p)
 
@@ -48,6 +48,9 @@ http://vthanh.utako.moe/TV_Tokyo/index.m3u8
 
 #EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="ＴＯＫＹＯ　ＭＸ１.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 (vthanhtivi)
 http://vthanh.utako.moe/Tokyo_MX1/index.m3u8 
+
+#EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="tokyo_mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2 (test)
+http://luong.utako.moe/mx2test/index.m3u8
 
 #EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="ＮＨＫ総合１・大阪.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 大阪 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=4
@@ -359,10 +362,10 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:2
 #EXTINF:-1  tvg-id="qvc" tvg-logo="https://i.imgur.com/xWSzQ34.png" group-title="CS1 (720p)", QVC (720p Willfon)
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 
-#EXTINF:-1 group-title="CS1 (720p)" tvg-id=" TBSチャンネル1　最新ドラマ・音楽・映画 .jp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp.png",TBSチャンネル1 最新ドラマ・音楽・映画  (vthanhtivi TEST)
+#EXTINF:-1 group-title="CS1 (720p)" tvg-id="tbs_ch1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp.png",TBSチャンネル1 最新ドラマ・音楽・映画  (vthanhtivi TEST)
 https://luong.utako.moe/tbsch1/index.m3u8 
 
-#EXTINF:-1 group-title="CS1 (720p)" tvg-id=" TBSチャンネル2　名作ドラマ・スポーツ・アニメ .jp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png",TBSチャンネル2 名作ドラマ・スポーツ・アニメ  (vthanhtivi TEST)
+#EXTINF:-1 group-title="CS1 (720p)" tvg-id="tbs_ch2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png",TBSチャンネル2 名作ドラマ・スポーツ・アニメ  (vthanhtivi TEST)
 https://luong.utako.moe/tbsch2/index.m3u8
 
 #EXTINF:-1 group-title="CS1 (720p)" tvg-id="音楽・ライブ！　スペースシャワーＴＶ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg", スペースシャワーTV   (vthanhtivi TEST)
@@ -495,7 +498,7 @@ https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/1
 https://ythls.armelin.one/channel/UCNsidkYpIAQ4QaufptQBPHQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fWH4f28p/Weathernews-logo-svg.png" group-title="NEWS",ウェザーニュース(サブチャンネル1)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730839913/ei/CTEqZ6eANOTi6dsP7ePtiAg/ip/92.205.5.93/id/3kTunDZLp1k.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51324841/txs/51324841%2C51324842%2C51324843/hfr/1/force_finished/1/maudio/1/spc/qtApAQmhtlCh1ML42dGLhbjcEqC94E-gAijA4jA6aSGu82kw8imfOI24ZPq19gk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932%2C51331020/dover/11/itag/0/playlist_type/CLEAN/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cforce_finished%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgTRR5oIqxys95AkbIzQBFLsYnv5lTRoTv3DP5AsBNFNACICRIb8E37EoFSO8w6kex3F7PRvEnUmxiLNIR95qNJCy8/file/index.m3u8
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-id="NHK.WORLD.jp" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NHKWorld.png", ＮＨＫワールド
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/domestic/2003459/live.m3u8
